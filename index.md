@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Bienvenue sur la page personnelle de HERMEZ Lorenzo
 
 You can use the [editor on GitHub](https://github.com/lorenzohermez/lorenzohermez.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -16,7 +16,7 @@ Syntax highlighted code block
 ### Header 3
 
 - Bulleted
-- List
+- $\theta_1$
 
 1. Numbered
 2. List
