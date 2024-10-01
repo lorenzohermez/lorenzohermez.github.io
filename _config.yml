@@ -24,9 +24,9 @@ author:
   avatar           : "Photo bruitée - HERMEZ Lorenzo.jpeg"
   name             : "Lorenzo HERMEZ"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Student at Telecom SudParis\nInstitut Polytechnique de Paris\nMultitask deep learning to predict the therapeutic impacts in neuro-functional rehabilitation"
+  bio              : "PhD Student at Telecom SudParis -\nInstitut Polytechnique de Paris\n<hr>Multitask deep learning to predict the therapeutic impacts in neuro-functional rehabilitation"
   location         : "Lille/Evry, France"
-  employer         : "Telecom SudParis\nInstitut Polytechnique de Paris"
+  employer         : "Institut Mines-Telecom"
   uri              : # URL
   email            : "lorenzo.hermez@telecom-sudparis.eu" 
 
