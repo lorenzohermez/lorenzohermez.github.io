@@ -23,10 +23,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Lorenzo HERMEZ"
-  pronouns         : "Her" # example: "she/her"  
-  bio              : "PhD Srudent at Telecom SudParis - Institute Polytechnique de Paris"
+  pronouns         : # example: "she/her"  
+  bio              : "PhD Srudent at Telecom SudParis\nInstitut Polytechnique de Paris"
   location         : "Evry, France"
-  employer         : "Telecom SudParis - Institute Polytechnique de Paris"
+  employer         : "Telecom SudParis\nInstitut Polytechnique de Paris"
   uri              : # URL
   email            : "lorenzo.hermez@telecom-sudparis.eu" 
 
