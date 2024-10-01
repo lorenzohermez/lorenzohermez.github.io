@@ -1,7 +1,7 @@
 ---
 title: "Clinical Gait Analysis: Characterizing Normal Gait and Pathological Deviations Due to Neurological Diseases"
 collection: publications
-category: articles
+category: manuscripts
 permalink: /publication/sensors-2023
 excerpt: 'This study addresses the characterization of normal gait and pathological deviations induced by neurological diseases, considering non-normalized knee angular kinematics in the sagittal plane.'
 date: 2023-07-20
