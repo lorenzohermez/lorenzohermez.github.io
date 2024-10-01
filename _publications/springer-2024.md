@@ -1,7 +1,7 @@
 ---
 title: "Gait Deviation and Neurological Diseases: a Comparative Study of Quantitative Measures"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/springer-2024
 excerpt: 'This study compares the method proposed in Sensors with other state-of-the-art gait quality measures.'
 date: 2024-10-01
