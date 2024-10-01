@@ -8,7 +8,7 @@ venue: 'ESMAC 2024'
 location: 'Oslo, Norway'
 ---
 
-Gait quality measures such as GDI [1](https://doi.org/10.1016/j.gaitpost.2008.05.001) and GPS [2](https://doi.org/10.1016/j.gaitpost.2009.05.020) rely on the Euclidian distance between time-normalized kinematic data to an average standard derived from healthy samples. Not accounting for temporal shifts can make these measures difficult to interpret or even unsuitable in some cases. For instance, in adult Hemiparesis, GDI and GPS are paradoxically often closer to the standard for the affected limb than for the unaffected limb [3](https://doi.org/10.1016/j.gaitpost.2018.06.126). We propose a novel method to characterize normal gait by identifying multiple representatives among the control group, and to compute deviations using an elastic metric taking into account temporal shifts.
+Gait quality measures such as GDI [[1](https://doi.org/10.1016/j.gaitpost.2008.05.001)] and GPS [[2](https://doi.org/10.1016/j.gaitpost.2009.05.020)] rely on the Euclidian distance between time-normalized kinematic data to an average standard derived from healthy samples. Not accounting for temporal shifts can make these measures difficult to interpret or even unsuitable in some cases. For instance, in adult Hemiparesis, GDI and GPS are paradoxically often closer to the standard for the affected limb than for the unaffected limb [[3](https://doi.org/10.1016/j.gaitpost.2018.06.126)]. We propose a novel method to characterize normal gait by identifying multiple representatives among the control group, and to compute deviations using an elastic metric taking into account temporal shifts.
 
 ### Research Question
 
