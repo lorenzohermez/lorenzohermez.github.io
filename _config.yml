@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Lorenzo HERMEZ"
 title_separator          : "-"
 name                     : &name "Lorenzo HERMEZ"
-description              : &description "personal description"
+description              : &description "PhD Student at Telecom SudParis\nInstitut Polytechnique de Paris"
 url                      : https://lorenzohermez.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lorenzohermez/lorenzohermez.github.io"
@@ -24,20 +24,20 @@ author:
   avatar           : "Photo bruitée - HERMEZ Lorenzo.jpeg"
   name             : "Lorenzo HERMEZ"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Student at Telecom SudParis\nInstitut Polytechnique de Paris"
-  location         : "Evry, France"
+  bio              : "PhD Student at Telecom SudParis\nInstitut Polytechnique de Paris\nMultitask deep learning to predict the therapeutic impacts in neuro-functional rehabilitation"
+  location         : "Lille/Evry, France"
   employer         : "Telecom SudParis\nInstitut Polytechnique de Paris"
   uri              : # URL
   email            : "lorenzo.hermez@telecom-sudparis.eu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=qdDOXpYAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0000-5974-9428"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : "https://www.researchgate.net/profile/Lorenzo-Hermez/"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "lorenzo-hermez-43577b193"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -235,9 +235,9 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: false
       share: true
-      related: true
+      related: false
   # _pages
   - scope:
       path: ""
@@ -253,7 +253,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true
+      comments: false
   # _publications
   - scope:
       path: ""
@@ -262,7 +262,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true
+      comments: false
   # _portfolio
   - scope:
       path: ""
@@ -271,7 +271,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comment: true
+      comment: false
   # _talks
   - scope:
       path: ""
