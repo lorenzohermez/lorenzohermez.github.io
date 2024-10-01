@@ -21,10 +21,10 @@ repository               : "lorenzohermez/lorenzohermez.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Photo bruitée - HERMEZ Lorenzo.jpeg"
   name             : "Lorenzo HERMEZ"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Srudent at Telecom SudParis\nInstitut Polytechnique de Paris"
+  bio              : "PhD Student at Telecom SudParis\nInstitut Polytechnique de Paris"
   location         : "Evry, France"
   employer         : "Telecom SudParis\nInstitut Polytechnique de Paris"
   uri              : # URL
