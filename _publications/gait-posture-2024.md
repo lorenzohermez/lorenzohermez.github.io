@@ -3,7 +3,7 @@ title: "An enhanced characterization of gait deviations in Hemiparesis by combin
 collection: publications
 category: manuscripts
 permalink: /publication/gait-posture-2024
-excerpt: 'This study completes the method proposed in Sensors by considering sagittal ankle angular kinematics.'
+excerpt: 'This study completes the method proposed in [Sensors](https://lorenzohermez.github.io/sensors-2023) by considering sagittal ankle angular kinematics.'
 date: 2024-09-20
 venue: 'Gait & Posture'
 # slidesurl: 'http://lorenzohermez.github.io/files/slides-esmac.pdf'
