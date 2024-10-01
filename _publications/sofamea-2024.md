@@ -6,10 +6,10 @@ permalink: /publication/sofamea-2024
 excerpt: 'Cette étude vise à améliorer la caractérisation de la marche normale et des déviations pathologiques induites par des maladies neurologiques.'
 date: 2024-01-24
 venue: 'XXII congrès de la Société Francophone d'analyse du mouvement chez l'enfant et l'adulte (SOFAMEA)'
-citation: 'L. Hermez, N. Houmani, S. Garcia-Salicetti, O. Galarraga, V. Vigneron. "Caractérisation de la marche normale et des déviations pathologiques dues aux maladies neurologiques : étude comparative des mesures de déviations de la marche", XXII congrès de la Société Francophone d'analyse du mouvement chez l'enfant et l'adulte (SOFAMEA ), Jan 2024, Nantes (France), France'
+citation: 'L. Hermez, N. Houmani, S. Garcia-Salicetti, O. Galarraga, V. Vigneron. "Caractérisation de la marche normale et des déviations pathologiques dues aux maladies neurologiques : étude comparative des mesures de déviations de la marche", XXII congrès de la Société Francophone d'analyse du mouvement chez l'enfant et l'adulte (SOFAMEA), Jan 2024, Nantes (France), France'
 ---
-### Objectifs 
 
+### Objectifs 
 Cette étude vise à améliorer la caractérisation de la marche normale et des déviations pathologiques induites par des maladies neurologiques. Les objectifs sont la prise en compte de la variance présente au sein de la marche normale et de la dynamique temporelle des signaux de marche, ainsi que la quantification précise des déviations pathologiques par rapport à la marche d’individus sains. Enfin, la comparaison des performances de notre nouvelle méthode sera effectuée avec le Gait Deviation Index (GDI) et le Gait Profile Score (GPS).
 
 ### Question de recherche 
