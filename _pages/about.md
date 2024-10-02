@@ -27,11 +27,11 @@ I strive to create clean and robust code suitable for open-source utilization. T
 
 **Télécom SudParis - Institut Polytechnique de Paris**
 *Chargé d’enseignements (M1): Artificial Intelligence for Data Science*
-I taught an introductory course on machine learning, covering topics such as linear and logistic regressions, clustering, Gaussian Mixture Models (GMM), Support Vector Machines (SVM), and Principal Component Analysis (PCA). Additionally, I introduced deep learning concepts, including feedforward networks, gradient descent, and optimizers. The course included practical examples for quantified gait analysis.
+- I taught an introductory course on machine learning, covering topics such as linear and logistic regressions, clustering, Gaussian Mixture Models (GMM), Support Vector Machines (SVM), and Principal Component Analysis (PCA). Additionally, I introduced deep learning concepts, including feedforward networks, gradient descent, and optimizers. The course included practical examples for quantified gait analysis.
 
 **Réseau de Transport d’Electricité (RTE)**
 *Research Associate*
-During my tenure at RTE, I focused on characterizing electric consumption profiles by visualizing and characterizing data in an interpretable latent space using Keras. I also utilized Variational Autoencoders for reconstructing and generating time series data. Furthermore, I measured similarities and dissimilarities of consumption profiles in reduced dimensions.
+- During my tenure at RTE, I focused on characterizing electric consumption profiles by visualizing and characterizing data in an interpretable latent space using Keras. I also utilized Variational Autoencoders for reconstructing and generating time series data. Furthermore, I measured similarities and dissimilarities of consumption profiles in reduced dimensions.
 *February 2022 – August 2022*
 *Paris - La Défense*
 
@@ -39,7 +39,7 @@ During my tenure at RTE, I focused on characterizing electric consumption profil
 *Research Intern*
 - As a research intern, I studied stochastic neural architectures for data regeneration, which included a comprehensive review of state-of-the-art methods. I also analyzed unsupervised and interpretable estimation methods and applied Variational Autoencoder architectures in my research.
 *October 2021 – January 2022*
-*Evry, France*
+
 
 **Allianz France**
 *Intern*
