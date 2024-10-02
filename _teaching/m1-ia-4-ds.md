@@ -4,7 +4,7 @@ collection: teaching
 type: "Master of Science course"
 permalink: /teaching/m1-ia-4-ds
 venue: "Télécom SudParis"
-date: 2014-05-13
+date: 2024-05-13
 location: "Evry, France"
 ---
 
