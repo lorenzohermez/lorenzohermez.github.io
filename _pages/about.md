@@ -26,26 +26,20 @@ I strive to create clean and robust code suitable for open-source utilization. T
 ## 👨🏻‍🔬 Professional Experience
 
 **Télécom SudParis - Institut Polytechnique de Paris** <br/>
-*Lecturer (M1): Artificial Intelligence for Data Science*
+*Lecturer (M1): Artificial Intelligence for Data Science* (*Actual*)
 - I taught an introductory course on machine learning, covering topics such as linear and logistic regressions, clustering, Gaussian Mixture Models (GMM), Support Vector Machines (SVM), and Principal Component Analysis (PCA). Additionally, I introduced deep learning concepts, including feedforward networks, gradient descent, and optimizers. The course included practical examples for quantified gait analysis.<br/>
-*Actual*
 
 **Réseau de Transport d’Electricité (RTE)** <br/>
-*Research Associate*
+*Research Associate* (*February 2022 – August 2022*)
 - During my tenure at RTE, I focused on characterizing electric consumption profiles by visualizing and characterizing data in an interpretable latent space using Keras. I also utilized Variational Autoencoders for reconstructing and generating time series data. Furthermore, I measured similarities and dissimilarities of consumption profiles in reduced dimensions.<br/>
-*February 2022 – August 2022*
-
 
 **Télécom SudParis - Institut Polytechnique de Paris** <br/>
-*Research Intern*
+*Research Intern* (*October 2021 – January 2022*)
 - As a research intern, I studied stochastic neural architectures for data regeneration, which included a comprehensive review of state-of-the-art methods. I also analyzed unsupervised and interpretable estimation methods and applied Variational Autoencoder architectures in my research.<br/>
-*October 2021 – January 2022*
-
 
 **Allianz France** <br/>
-*Intern*
+*Research Intern* (*January 2021 – June 2021*)
 - At Allianz France, I worked on modeling and predicting temperatures across France. I visualized geographical data using Python (geojson) and utilized time series data from the pandas library for modeling and prediction. Additionally, I performed spatial interpolation to model temperature behavior at a national scale.<br/>
-*January 2021 – June 2021*
 
 Throughout my academic and professional experiences, I have developed a strong foundation in **artificial intelligence and data science**. My roles have allowed me to teach fundamental concepts, conduct **cutting-edge research**, and apply advanced techniques to real-world problems. These experiences have equipped me with the skills to **visualize and analyze complex data**, develop innovative solutions, and contribute to both academic and industrial projects.
 
