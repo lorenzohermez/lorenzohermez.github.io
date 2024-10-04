@@ -11,6 +11,7 @@ redirect_from:
 
 
 ![Illustration of combining vision and language modalities](/images/paranormal.jpg){: .align-right width="300px"}
+![QR Code](/images/Untitled1.png){: .align-right width="300px"}
 👨🏻‍💻 I'm a final year PhD Student at Télécom SudParis - Institut Polytechnique de Paris.
 
 🔬 My research focuses on machine learning and artificial intelligence for the characterization and evaluation of gait, as well as the prediction of therapeutic effects! 
