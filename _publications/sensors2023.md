@@ -6,7 +6,7 @@ permalink: /publication/sensors-2023
 excerpt: 'This study addresses the characterization of normal gait and pathological deviations induced by neurological diseases, considering non-normalized knee angular kinematics in the sagittal plane.'
 date: 2023-07-20
 venue: 'Sensors'
-paperurl: 'http://academicpages.github.io/files/sensors2023.pdf'
+paperurl: 'http://lorenzohermez.github.io/files/sensors2023.pdf'
 citation: 'Hermez, L.; Halimi, A.; Houmani, N.; Garcia-Salicetti, S.; Galarraga, O.; Vigneron, V. "Clinical Gait Analysis: Characterizing Normal Gait and Pathological Deviations Due to Neurological Diseases", <i>Sensors</i> <b>2023</b>, 23, 6566. https://doi.org/10.3390/s23146566'
 ---
 
