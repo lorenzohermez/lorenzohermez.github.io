@@ -6,7 +6,7 @@ permalink: /publication/cibm-egai-2024
 excerpt: 'This study addresses the assessment of gait asymmetry induced by neurological diseases considering machine learning methods, especially Singular Value Decomposition.'
 date: 2025-01-01
 venue: 'Computers in Biology and Medicine, vol. 184'
-paperurl: 'http://academicpages.github.io/files/cibm-egai-2024.pdf'
+paperurl: 'http://lorenzohermez.github.io/files/cibm-egai-2024.pdf'
 citation: 'L. Hermez, N. Houmani, S. Garcia-Salicetti, O. Galarraga, and V. Vigneron, “Gait asymmetry assessment through eigen-gait components on dissimilarity maps", Computers in Biology and Medicine, vol. 184, p. 109390, 2025.'
 ---
 
