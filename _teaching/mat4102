@@ -1,0 +1,38 @@
+---
+title: "Machine learning, Classification and Data Mining - *MAT4102*"
+collection: teaching
+type: "Engineering Master’s program"
+permalink: /teaching/mat4102
+venue: "Télécom SudParis"
+date: 2024-05-13
+location: "Evry, France"
+---
+
+This is a short description of the lessons made in MAT4102.
+The aim of this course is to give the fundamentals of machine learning, with a particular emphasis on how learning algorithms are constructed.
+The course is divided into two parts: lectures where we describe the statistical models and the algorithms, and practical sessions to assess the algorithms performance with real data.
+All practical sessions are done using Python notebooks
+
+Course 1 : AI & Machine Learning Introduction
+======
+
+Course objective :
+- AI and machine learning: definitions, presentation of some important concepts that have contributed to their development.
+- Provide an overview of the interface between physics and mathematics
+- Explain supervised and unsupervised learning
+- Explain the data processing and analysis chain
+- Give the “basic” methodology of data processing and analysis
+- Present evaluation tools for automatic classification systems based on supervised learning
+
+Course 2: Unsupervised learning (Clustering)
+======
+Course objectives:
+
+- Introduction to clustering and evaluation of clustering quality.
+- Presentation of unsupervised learning methods: partioning method (K-means, K-Medoids), hierarchical method, density-based method (DBSCAN), probabilistic method using GMM model.
+- Presentation of the evaluation methodology in the context of unsupervised learning.
+
+Course 3: Unsupervised learning (Lab session):
+======
+The aim of this tutorial is to study and compare different unsupervised learning algorithms covered in the course (K-Meaning, K-Medoid, DBSCAN and Gaussian Mixture Models), techniques widely used for grouping individuals, i.e.
+to partition $N$ input individuals ($X= {X_1, . . . , X_N}$) into K groups or ≪ clusters ≫. The individuals are described in a $p$-dimensional space ($X_i \in \mathbb{R}^p$).
