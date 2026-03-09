@@ -3,10 +3,10 @@ layout: cv
 permalink: /cv/
 title: CV
 nav: true
-nav_order: 5
-cv_pdf: /assets/pdf/example_pdf.pdf # you can also use external links here
+nav_order: 6
+cv_pdf: /assets/pdf/CV_LH_EN.pdf # you can also use external links here
 cv_format: rendercv # options: rendercv, jsonresume
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+description: Below is a summary of my resume. You can also download the full version (currently only available in French) by clicking on the PDF download button at the top of the page.
 toc:
   sidebar: left
 ---

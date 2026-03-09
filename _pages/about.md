@@ -2,16 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: photo_recadree.jpg
+  image_circular: true # crops the image to make it circular
+
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -21,14 +18,10 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
+I am an Associate Professor at [IMT Nord Europe](https://imt-nord-europe.fr/en/).
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I contribute to teaching machine learning, signal processing, and AI for healthcare in engineering programs, and develop research activities within the [HIDE](https://research.imt-nord-europe.fr/themes/human-interaction-decision/) division of [CERI SN](https://research.imt-nord-europe.fr/digital-systems/), with a focus on human-centered learning models and augmented environments. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Earlier, I was a postdoctoral researcher in the [Scool team](https://team.inria.fr/scool/) at [Centre Inria de l'Université de Lille](https://www.inria.fr/fr/centre-inria-de-luniversite-de-lille) (France) with Prof. [Philippe Preux](https://philippe-preux.codeberg.page) and Dr. [Emilie Kaufmann](https://emiliekaufmann.github.io). This position is part of the ANR [BIP-UP](https://project.inria.fr/bipup/) project, which aims to determine whether it is possible to personalize patient follow-up after bariatric surgery. My background includes a PhD in Signal, Image, Automation, and Robotics from [Institut Polytechnique de Paris](https://www.ip-paris.fr/en) under supervision of Prof. Sonia Garcia-Salicetti and Dr. [Nesma Houmani](https://scholar.google.com/citations?user=NgGjaAQAAAAJ&hl=fr), and an MSc from [Telecom SudParis](https://telecom-sudparis.eu/en). 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
