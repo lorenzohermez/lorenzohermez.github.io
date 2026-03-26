@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am pleased to announce that I have officially received the French national qualification for Associate Professor positions (Maître de Conférences) in [Section 27](https://cnu27.ls2n.fr) (Computer Sciences).
+I am pleased to announce that I have officially received the French national qualification for Associate Professor positions (Maître de Conférences) in [Section 27](https://cnu27.ls2n.fr) (Computer Sciences). 

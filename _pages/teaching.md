@@ -17,8 +17,8 @@ calendar: true
   <a href="https://syllabus.imt-nord-europe.fr/formations/fise">Syllabus link</a>
 
 ### Université de Lille — Lille, France · 28/03/2026
-- **IA et apprentissage automatique**, French seminar IA DU en Santé (Cours magistral).  
-  <a href="{{ '/assets/pdf/slides_seminaire5.pdf' | relative_url }}">slides</a>
+- **IA et apprentissage automatique**, French seminar IA DU en Santé (Cours magistral). 
+  <a href="{{ '/assets/pdf/slides_seminaire.pdf' | relative_url }}">slides</a>
 
 ### Telecom SudParis — Evry, France · 2023-2025
 - **Machine Learning, Classification, Data Mining (MAT4102)**, FS 2024/2025 — designed and taught full course (with Dr. Nesma Houmani).  
