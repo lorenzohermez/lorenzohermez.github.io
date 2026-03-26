@@ -16,6 +16,10 @@ calendar: true
 - **Introduction to Data Science and AI**, CI1.IN.INSCIA — Lab sessions.  
   <a href="https://syllabus.imt-nord-europe.fr/formations/fise">Syllabus link</a>
 
+### Université de Lille — Lille, France · 28/03/2026
+- **IA et apprentissage automatique**, French seminar IA DU en Santé (Cours magistral).  
+  <a href="{{ '/assets/pdf/slides_seminaire5.pdf' | relative_url }}">slides</a>
+
 ### Telecom SudParis — Evry, France · 2023-2025
 - **Machine Learning, Classification, Data Mining (MAT4102)**, FS 2024/2025 — designed and taught full course (with Dr. Nesma Houmani).  
   <a href="https://enseignements.telecom-sudparis.eu/fiche.php?m=20399">course link</a>
@@ -25,8 +29,7 @@ calendar: true
   <a href="https://www.ip-paris.fr/en/education/masters/electrical-engineering-program/master-year-1-electrical-engineering-communications-information-processing">course link</a>
 
 ---
-
-<!--## Invited lectures -->
+<!--## Invited lectures-->
 
 ## Oral Presentations
 
