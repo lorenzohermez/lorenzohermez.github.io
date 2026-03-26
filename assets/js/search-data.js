@@ -81,6 +81,12 @@ ninja.data = [{
           section: "News",},{id: "news-started-a-new-position-as-associate-professor-at-imt-nord-europe-within-the-hide-division-of-ceri-sn",
           title: 'Started a new position as Associate Professor at IMT Nord Europe, within the...',
           description: "",
+          section: "News",},{id: "news-i-am-pleased-to-announce-that-i-have-officially-received-the-french-national-qualification-for-associate-professor-positions-maître-de-conférences-in-section-61-computer-engineering-control-and-signal-processing",
+          title: 'I am pleased to announce that I have officially received the French national...',
+          description: "",
+          section: "News",},{id: "news-i-am-pleased-to-announce-that-i-have-officially-received-the-french-national-qualification-for-associate-professor-positions-maître-de-conférences-in-section-27-computer-sciences",
+          title: 'I am pleased to announce that I have officially received the French national...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
