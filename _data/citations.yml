@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-16'
+  last_updated: '2026-04-27'
 papers:
   qdDOXpYAAAAJ:3fE2CSJIrl8C:
     citations: 0
@@ -18,7 +18,7 @@ papers:
     title: An enhanced characterization of gait deviations in Hemiparesis by combining knee and ankle kinematics
     year: '2024'
   qdDOXpYAAAAJ:ULOm3_A8WrAC:
-    citations: 0
+    citations: 1
     title: A novel gait quality measure for characterizing pathological gait based on Hidden Markov Models
     year: '2025'
   qdDOXpYAAAAJ:YOwf2qJgpHMC:
@@ -34,7 +34,7 @@ papers:
     title: "Quantification des effets th\xE9rapeutiques sur la marche chez des patients avec h\xE9mipar\xE9sie par une mesure de distance \xE9lastique multidimensionnelle"
     year: '2025'
   qdDOXpYAAAAJ:u-x6o8ySG0sC:
-    citations: 25
+    citations: 27
     title: 'Clinical gait analysis: characterizing normal gait and pathological deviations due to neurological diseases'
     year: '2023'
   qdDOXpYAAAAJ:ufrVoPGSRksC:
